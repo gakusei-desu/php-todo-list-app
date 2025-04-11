@@ -8,18 +8,22 @@ Designed as a personal project and portfolio piece.
 
 ## 📦 Features
 
-- Add new tasks
-- Toggle completion
-- Delete tasks with ✖
-- Task list stored in a MySQL database
-- Bootstrap 5 UI with custom dark styling
+- Add new tasks  
+- Toggle completion  
+- Delete tasks with ✖  
+- Task list stored in a MySQL database  
+- Bootstrap 5 UI with custom dark styling  
 - Localhost ready (WAMP, XAMPP, MAMP compatible)
 
 ---
 
 ## 🧱 Folder Structure
+
 /To-Do-List/ ├── index.php ├── Database.php ├── Task.php ├── assets/ │ └── style.css └── sql/ └── init.sql
 
+pgsql
+Copy
+Edit
 
 ---
 
@@ -39,7 +43,6 @@ CREATE TABLE tasks (
     done TINYINT(1) DEFAULT 0,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-```
 Start your local server (WAMP, XAMPP, MAMP, etc.)
 
 Visit in your browser:
@@ -75,3 +78,29 @@ Developed locally with WAMPServer
 📃 License
 MIT — Free to use, fork, and modify for personal or professional projects.
 
+yaml
+Copy
+Edit
+
+---
+
+### 🔹 4. Scroll Down → Add a commit message:
+Fix README formatting for proper GitHub rendering
+
+yaml
+Copy
+Edit
+
+Then click **“Commit changes”**.
+
+---
+
+### ✅ Done!
+
+Your GitHub page should now show:
+- Proper headers
+- Bullet points
+- Code blocks
+- Section dividers
+
+Let me know once you update it, and we can prep the **blog post** to link your rep
