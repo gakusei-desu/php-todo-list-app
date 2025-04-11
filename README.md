@@ -19,7 +19,7 @@ Designed as a personal project and portfolio piece.
 
 ## 🧱 Folder Structure
 
-/To-Do-List/ ├── index.php ├── Database.php ├── Task.php ├── assets/ │ └── style.css └── sql/ └── init.sql
+/To-Do-List/ ├── index.php ├── Database.php ├── Task.php ├── images/ │ └── style.css └── sql/ └── init.sql
 
 
 ---
@@ -47,7 +47,7 @@ Open your browser and visit:
 http://localhost/To-Do-List/
 
 ## 📸 Preview
-(Add your screenshot here once ready)
+![To-Do List App Preview](images/To-Do-List.jpg)
 
 ## 💡 Future Plans
 - Add search/filter functionality
