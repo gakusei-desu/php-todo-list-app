@@ -1,6 +1,8 @@
 # 📝 PHP To-Do List App (Bootstrap 5 + MySQL)
 
-This is a responsive, local-first To-Do List app built with PHP, MySQL, and Bootstrap 5. Tasks are stored in a MySQL database using secure, object-oriented PHP (PDO). Designed as a personal project and portfolio piece.
+This is a responsive, local-first To-Do List app built with PHP, MySQL, and Bootstrap 5.  
+Tasks are stored in a MySQL database using secure, object-oriented PHP (PDO).  
+Designed as a personal project and portfolio piece.
 
 ---
 
@@ -16,7 +18,6 @@ This is a responsive, local-first To-Do List app built with PHP, MySQL, and Boot
 ---
 
 ## 🧱 Folder Structure
-
 /To-Do-List/ ├── index.php ├── Database.php ├── Task.php ├── assets/ │ └── style.css └── sql/ └── init.sql
 
 
@@ -25,7 +26,8 @@ This is a responsive, local-first To-Do List app built with PHP, MySQL, and Boot
 ## ⚙️ Setup Instructions
 
 1. Clone or download this repository into your localhost root (e.g. `www/To-Do-List`)
-2. Import the provided SQL schema (or use `phpMyAdmin`):
+2. Import the provided SQL schema (or use phpMyAdmin):
+
 ```sql
 CREATE DATABASE todo_app;
 
@@ -37,8 +39,39 @@ CREATE TABLE tasks (
     done TINYINT(1) DEFAULT 0,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
+Start your local server (WAMP, XAMPP, MAMP, etc.)
 
-3. Start your local server (WAMP, XAMPP, etc.)
-
-Visit:
+Visit in your browser:
 http://localhost/To-Do-List/
+
+📸 Preview
+(Add your screenshot here once ready)
+
+💡 Future Plans
+Add search/filter functionality
+
+Sort by oldest/newest
+
+Add task categories or tags
+
+Display created_at timestamps
+
+Convert into Electron desktop app
+
+Add user login for multi-user support
+
+🧠 Stack
+PHP (OOP + PDO)
+
+MySQL (MariaDB)
+
+Bootstrap 5
+
+Custom CSS (dark mode)
+
+Developed locally with WAMPServer
+
+📃 License
+MIT — Free to use, fork, and modify for personal or professional projects.
+
