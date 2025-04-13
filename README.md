@@ -1,5 +1,14 @@
 # 📝 PHP To-Do List App (Bootstrap 5 + MySQL)
 
+![PHP](https://img.shields.io/badge/Built%20With-PHP-blue?logo=php)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap%205-purple?logo=bootstrap)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
+![License](https://img.shields.io/github/license/gakusei-desu/php-todo-list-app)
+![Last Commit](https://img.shields.io/github/last-commit/gakusei-desu/php-todo-list-app)
+![GitHub Repo stars](https://img.shields.io/github/stars/gakusei-desu/php-todo-list-app?style=social)
+
+
 This is a responsive, local-first To-Do List app built with PHP, MySQL, and Bootstrap 5.  
 Tasks are stored in a MySQL database using secure, object-oriented PHP (PDO).  
 Designed as a personal project and portfolio piece.
