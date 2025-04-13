@@ -61,7 +61,7 @@ Open your browser and visit:
 http://localhost/To-Do-List/
 
 ## 📸 Preview
-![To-Do List App Preview](images/To-Do-List.jpg)
+![To-Do List App Preview](images/To-Do-List-App.jpg)
 
 ## 💡 Future Plans
 - Add search/filter functionality
