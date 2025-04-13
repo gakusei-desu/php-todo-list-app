@@ -18,9 +18,16 @@ Designed as a personal project and portfolio piece.
 ---
 
 ## 🧱 Folder Structure
-
-/To-Do-List/ ├── index.php ├── Database.php ├── Task.php ├── images/ │ └── style.css └── sql/ └── init.sql
-
+```bash
+/To-Do-List/
+├── index.php
+├── database.php
+├── task.php
+├── images/
+│   └── style.css
+└── sql/
+    └── init.sql
+```
 
 ---
 
