@@ -9,9 +9,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/gakusei-desu/php-todo-list-app?style=social)
 
 
-This is a responsive, local-first To-Do List app built with PHP, MySQL, and Bootstrap 5.  
-Tasks are stored in a MySQL database using secure, object-oriented PHP (PDO).  
-Designed as a personal project and portfolio piece.
+I built a responsive, local-first to-do list app using PHP, MySQL, and Bootstrap 5 as the core stack. Task data is stored using object-oriented PHP with PDO for secure, structured database interaction. I built this as a hands-on refresher to sharpen my backend fundamentals and experiment with lightweight app architecture — no frameworks, just clean logic, modular files, and a simple UI that gets the job done. As my stack evolves, I’ll expand this into a complete task or project manager.
 
 ---
 
@@ -79,6 +77,16 @@ http://localhost/To-Do-List/
 - Bootstrap 5
 - Custom CSS (dark mode)
 - Developed locally with WAMPServer
+
+---
+
+## 📝 Blog Post
+
+Want the full breakdown?  
+Read the behind-the-scenes write-up on my dev blog:  
+🔗 [Simple PHP Task App – Project Overview]([https://atypicaltinkerer.dev/simple-php-task-app](https://atypicaltinkerer.dev/simple-php-task-app/))
+
+---
 
 ## 📃 License
 MIT — Free to use, fork, and modify for personal or professional projects.
