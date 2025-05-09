@@ -84,7 +84,7 @@ http://localhost/To-Do-List/
 
 Want the full breakdown?  
 Read the behind-the-scenes write-up on my dev blog:  
-[Simple PHP Task App – Project Overview](https://atypicaltinkerer.dev/simple-php-task-app/)
+[Simple PHP Task App – Project Overview](https://atypicaltinkerer.dev/projects/simple-php-task-app/)
 
 ---
 
