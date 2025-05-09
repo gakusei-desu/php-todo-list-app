@@ -1,4 +1,4 @@
-# 📝 PHP To-Do List App (Bootstrap 5 + MySQL)
+# PHP To-Do List App (Bootstrap 5 + MySQL)
 
 ![PHP](https://img.shields.io/badge/Built%20With-PHP-blue?logo=php)
 ![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap%205-purple?logo=bootstrap)
@@ -13,7 +13,7 @@ I built a responsive, local-first to-do list app using PHP, MySQL, and Bootstrap
 
 ---
 
-## 📦 Features
+## Features
 
 - Add new tasks  
 - Toggle completion  
@@ -24,7 +24,7 @@ I built a responsive, local-first to-do list app using PHP, MySQL, and Bootstrap
 
 ---
 
-## 🧱 Folder Structure
+## Folder Structure
 ```bash
 /To-Do-List/
 ├── index.php
@@ -38,7 +38,7 @@ I built a responsive, local-first to-do list app using PHP, MySQL, and Bootstrap
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone or download this repository into your localhost root (e.g. `www/To-Do-List`)
 2. Import the provided SQL schema using phpMyAdmin or CLI:
@@ -60,10 +60,10 @@ Start your local server (WAMP, XAMPP, MAMP, etc.)
 Open your browser and visit:
 http://localhost/To-Do-List/
 
-## 📸 Preview
+## Preview
 ![To-Do List App Preview](images/To-Do-List-App.jpg)
 
-## 💡 Future Plans
+## Future Plans
 - Add search/filter functionality
 - Sort by oldest/newest
 - Add task categories or tags
@@ -71,22 +71,22 @@ http://localhost/To-Do-List/
 - Convert into Electron desktop app
 - Add user login for multi-user support
 
-## 🧠 Stack
+## Stack
 - PHP (OOP + PDO)
-- MySQL (MariaDB)
+- MySQL 
 - Bootstrap 5
-- Custom CSS (dark mode)
+- Custom CSS 
 - Developed locally with WAMPServer
 
 ---
 
-## 📝 Blog Post
+## Blog Post
 
 Want the full breakdown?  
 Read the behind-the-scenes write-up on my dev blog:  
-🔗 [Simple PHP Task App – Project Overview](https://atypicaltinkerer.dev/simple-php-task-app/)
+[Simple PHP Task App – Project Overview](https://atypicaltinkerer.dev/simple-php-task-app/)
 
 ---
 
-## 📃 License
+## License
 MIT — Free to use, fork, and modify for personal or professional projects.
